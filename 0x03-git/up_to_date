@@ -1,0 +1,9 @@
+git clone https://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@github.com/jjacobstech/alx-zero_day.git
+cd alx-zero_day
+cd 0x03-git
+echo "git clone https://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@github.com/jjacobstech/alx-zero_day.git
+cd alx-zero_day
+cd 0x03-git" > up_to_date
+git add
+git commit -m ""
+git push
